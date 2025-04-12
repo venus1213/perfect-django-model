@@ -1,4 +1,4 @@
-# simple-django-project
+# Perfect Django Model
 ## Installation
 
 ### Prerequisites
@@ -27,7 +27,7 @@ source envs/bin/activate
 
 #### 4. Clone git repository
 ```bash
-git clone "https://github.com/Manisha-Bayya/simple-django-project.git"
+git clone "https://github.com/venus1213/perfect-django-model.git"
 ```
 
 #### 5. Install requirements
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 mysql -u <mysql-user> -p
 
 # Give the absolute path of the file
-mysql> source ~/simple-django-project/world.sql
+mysql> source ~/perfect-django-model/world.sql
 mysql> exit;
 
 ```
